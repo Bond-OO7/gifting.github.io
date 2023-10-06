@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sibiu, Romania - City Information and Places to Visit</title>
+    <meta name="description" content="Explore Sibiu, Romania, and discover its historical sites, vibrant culture, and charming atmosphere. Find information about popular attractions, restaurants, and more.">
+    <meta name="keywords" content="Sibiu, Romania, travel, tourism, attractions, places to visit">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Your Name">
+</head>
+
+<body>
+
+    <header>
+        <h1>Sibiu, Romania - City Information and Places to Visit</h1>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>About Sibiu</h2>
+            <p>Welcome to Sibiu, one of Romania's most charming cities located in the heart of Transylvania. Known for its well-preserved medieval architecture, Sibiu offers a delightful blend of history, culture, and natural beauty. Explore its cobblestone streets, visit historic landmarks, and immerse yourself in the city's warm atmosphere.</p>
+
+            <!-- Add more content about Sibiu as needed -->
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 Sibiu, Romania. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
