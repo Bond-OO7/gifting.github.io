@@ -1,1 +1,9 @@
 permalink: /:title/
+
+# Permalink override for sitemap.xml
+defaults:
+  -
+    scope:
+      path: "sitemap.xml"
+    values:
+      permalink: /sitemap.xml
